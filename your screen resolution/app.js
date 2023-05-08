@@ -1,0 +1,1 @@
+document.getElementById("resolution").innerHTML=" Your Screen resolution is = <br />"+innerWidth+" × "+innerHeight;
